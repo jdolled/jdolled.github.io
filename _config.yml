@@ -1,5 +1,5 @@
 title: Spitfire
 description: A page where I can store shit
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
