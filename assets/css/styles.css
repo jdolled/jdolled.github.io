@@ -474,6 +474,7 @@ select {
 .doc-section h1 {
   font-size: 24px;
   font-weight: bold;
+  text-align: center;
 }
 .doc-section h2 {
   font-size: 22px;
@@ -486,6 +487,7 @@ select {
 .doc-section h4 {
   font-size: 18px;
   font-weight: bold;
+  text-align: center;
 }
 .doc-section h5 {
   font-size: 16px;
