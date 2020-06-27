@@ -1589,5 +1589,6 @@ select {
     border-top-left-radius: 3px;
 }
 .img-responsive{
-transform: scale(0.5);
+transform: scale(0.8);
+margin-top:-40px;
 }
