@@ -1591,5 +1591,9 @@ select {
 .img-responsive{
 transform: scale(0.8);
 margin-top:-40px;
+transition: 0.2s;
   
+}
+.img-responsive: hover{
+ color: #2b878a; 
 }
