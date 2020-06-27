@@ -1589,7 +1589,7 @@ select {
     border-top-left-radius: 3px;
 }
 .img-responsive{
-transform: scale(0.8);
+transform: scale(0.81);
 margin-top:-40px;
   
 }
