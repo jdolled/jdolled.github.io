@@ -1588,3 +1588,6 @@ select {
     border-bottom-left-radius: 3px;
     border-top-left-radius: 3px;
 }
+img-responsive{
+transform: scale(0.8);
+)
