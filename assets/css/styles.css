@@ -99,9 +99,9 @@ a.btn-primary:active,
 a.btn-primary.active,
 .btn-primary.hover,
 a.btn-primary.hover {
-  background: #000000;
+  background: #ff0000;
   color: #fff !important;
-  border: 1px solid #000000;
+  border: 1px solid #ff0000;
 }
 .btn-green,
 a.btn-green {
