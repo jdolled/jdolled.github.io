@@ -1617,4 +1617,8 @@ border-radius: 5%
 .fanjoy:hover{
   transform:scale(.53);
 }
+img
+{
+  image-rendering:auto
+}
 
