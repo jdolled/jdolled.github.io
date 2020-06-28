@@ -1610,7 +1610,7 @@ border-radius: 5%
 .fanjoy{
 transition: 0.4s;
 transform: scale(0.5);
-margin-left: -100;
+margin-left: -350;
 margin-top: -75;
 border-radius: 5%
 }
