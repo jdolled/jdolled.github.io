@@ -1598,9 +1598,13 @@ transition: 0.2s;
  color: #520304; 
 }
 .spitfire{
-
-transform: scale(.5);
+transition: 0.4s;
+transform: scale(0.5);
 margin-left: -150;
 margin-top: -75;
 border-radius: 5%
 }
+.spitfire:hover{
+  transform:scale(.53);
+}
+
