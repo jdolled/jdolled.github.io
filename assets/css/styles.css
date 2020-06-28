@@ -46,7 +46,7 @@ p {
   line-height: 1.5;
 }
 a {
-  color: #3aa7aa;
+  color: #000000;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -85,8 +85,8 @@ a.btn .fa {
 }
 .btn-primary,
 a.btn-primary {
-  background: #40babd;
-  border: 1px solid #40babd;
+  background: #000000;
+  border: 1px solid #000000;
   color: #fff !important;
 }
 .btn-primary:hover,
@@ -99,9 +99,9 @@ a.btn-primary:active,
 a.btn-primary.active,
 .btn-primary.hover,
 a.btn-primary.hover {
-  background: #3aa7aa;
+  background: #000000;
   color: #fff !important;
-  border: 1px solid #3aa7aa;
+  border: 1px solid #000000;
 }
 .btn-green,
 a.btn-green {
@@ -141,8 +141,8 @@ a.btn-green.hover {
 }
 .btn-blue,
 a.btn-blue {
-  background: #58bbee;
-  border: 1px solid #58bbee;
+  background: #000000;
+  border: 1px solid #000000;
   color: #fff !important;
 }
 .btn-blue:hover,
@@ -338,7 +338,7 @@ select {
   text-decoration: none;
 }
 .branding .text-highlight {
-  color: #40babd;
+  color: #000000;
 }
 .body-green .branding .text-highlight {
   color: #75c181;
@@ -364,7 +364,7 @@ select {
 }
 .branding .icon {
   font-size: 24px;
-  color: #40babd;
+  color: #000000;
 }
 .body-green .branding .icon {
   color: #75c181;
@@ -1327,17 +1327,17 @@ select {
 }
 
 .header-landing {
-    color: #40babd;
+    color: #000000;
     padding: 60px 0;
 }
 .header-landing .branding .text-bold {
-    color: #40babd;
+    color: #000000;
 
 }
 
 
 .promo-block-slanted-up-blue {
-    background: #40babd;
+    background: #000000;
     color: rgba(255, 255, 255, 0.85);
     padding: 80px 0;
     -webkit-clip-path: polygon(0 20%, 100% 0, 100% 80%, 0% 100%);
@@ -1459,7 +1459,7 @@ select {
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary {
     color: #fff;
-    background: #3aa7aa;
+    background: #000000;
 }
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-info,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-info {
@@ -1595,5 +1595,5 @@ transition: 0.2s;
   
 }
 .img-responsive: hover{
- color: #2b878a; 
+ color: #520304; 
 }
