@@ -1607,4 +1607,14 @@ border-radius: 5%
 .spitfire:hover{
   transform:scale(.53);
 }
+.fanjoy{
+transition: 0.4s;
+transform: scale(0.5);
+margin-left: -75;
+margin-top: -75;
+border-radius: 5%
+}
+.spitfire:hover{
+  transform:scale(.53);
+}
 
