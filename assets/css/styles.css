@@ -1592,8 +1592,6 @@ select {
 transform: scale(0.8);
 margin-top:-40px;
 transition: 0.2s;
-max-height:125px;
-max-width:100%
   
 }
 .img-responsive: hover{
@@ -1626,7 +1624,7 @@ img
 .dickies{
 transition: 0.4s;
 transform: scale(0.5);
-margin-left: -550;
+margin-left: 750;
 margin-top: -75;
 border-radius: 5%
 }
