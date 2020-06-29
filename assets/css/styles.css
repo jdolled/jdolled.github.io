@@ -1621,4 +1621,13 @@ img
 {
   image-rendering:auto
 }
+.dickies{
+transition: 0.4s;
+transform: scale(0.5);
+margin-left: -550;
+margin-top: -75;
+border-radius: 5%
+}
+.dickies:hover{
+  transform:scale(.53);
 
