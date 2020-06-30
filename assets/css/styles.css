@@ -1600,8 +1600,8 @@ transition: 0.2s;
 .spitfire{
 transition: 0.4s;
 transform: scale(0.5);
-margin-left: -150;
-margin-top: -75;
+
+
 border-radius: 5%
 }
 .spitfire:hover{
@@ -1610,8 +1610,6 @@ border-radius: 5%
 .fanjoy{
 transition: 0.4s;
 transform: scale(0.5);
-margin-left: -350;
-margin-top: -75;
 border-radius: 5%
 }
 .fanjoy:hover{
@@ -1621,13 +1619,27 @@ img
 {
   image-rendering:auto
 }
-.dickies{
+
+.numbertwo{
+position: absolute;
+left: 800px;
+top: 300px;
 transition: 0.4s;
 transform: scale(0.5);
-margin-left: 750;
-margin-top: -75;
 border-radius: 5%
 }
-.dickies:hover{
+.numbertwo:hover{
   transform:scale(.53);
+}
+.numberthree{
+position: absolute;
+left:0;
+top: 300px;
+transition: 0.4s;
+transform: scale(0.5);
+border-radius: 5%
+}
+.numberthree:hover{
+  transform:scale(.53);
+}
 
