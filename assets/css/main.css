@@ -2515,7 +2515,8 @@ input, select, textarea {
 		display: inline-block;
 		position: relative;
 		overflow: hidden;
-		padding-top: -50px;
+		padding-top: 0px;
+		padding-bottom: inherit;
 	}
 
 		.image:before {
